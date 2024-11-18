@@ -13,6 +13,6 @@ public class Animal {
     }
 }
  enum TypeAnimal {
-    animal1, animal2, animal3, animal4, animal5, animal6, animal7,
+     CHIEN, CHAT,
 
 }
