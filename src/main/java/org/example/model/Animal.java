@@ -1,6 +1,6 @@
 package org.example.model;
 
-public class animal {
+public class Animal {
     String nomAnimal;
     TypeAnimal typeAnimal;
 
